@@ -1,2 +1,2 @@
-# genegyamfi.github.io
+# Eugene Adu-Gyamfi
 Data Science Portfolio
